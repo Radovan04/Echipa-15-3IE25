@@ -2,7 +2,7 @@
 
 Acesta este un sistem de management pentru o bază de date de studenți, dezvoltat ca aplicație Windows Forms în C#. Aplicația oferă o interfață grafică pentru vizualizarea și gestionarea datelor studenților stocate într-o bază de date Oracle.
 
-Raicici Radovan
+Raicici Radovan<br>
 Salcan Ionut
 Bologa Cristian
 Szilagyi Andrei
